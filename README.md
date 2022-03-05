@@ -1,5 +1,5 @@
 # Arduino-Based-CNC-Plotter-Machine
-Description👉 👇👇👇
+Description
 |* Designing of Arduino based computer numeric control machine specifically for plotting purposes *|
 #################################################################################################
 Software used include:
