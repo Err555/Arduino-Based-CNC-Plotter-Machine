@@ -8,5 +8,5 @@ Software used include:
         - Gcode loader (Universal GCode Sender v1.0.9)
         - Virtual Port Driver (Virtual Serial Port Emulator)
         - CAMotics
-        - Inkscape
+        - Ultimaker Cura
 ###################################################################################################
