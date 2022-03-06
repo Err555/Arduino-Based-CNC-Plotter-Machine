@@ -1,4 +1,5 @@
 ; In Proteus all unit are connected and simulation begins, if it pass it is going to be implemented on hardware
+########################################################################################################################
 Hardware  components which used on proteus include:
         - Arduino UNO R3 @1
         - Hex invert1er 4069 @1
@@ -9,4 +10,4 @@ Hardware  components which used on proteus include:
         - Virtual Terminal @1
         - LED-BIBY @4
         - Motor Bistepper @2
-#############################
+########################################################################################################################
