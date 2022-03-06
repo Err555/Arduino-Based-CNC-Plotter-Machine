@@ -1,4 +1,4 @@
-/* This file include Gcodes for specific picture to be plotted on machine */
+; This file include Gcodes for specific picture to be plotted on machine
 
 G90 (use absolute coordinates)
 G0 X0 Y0 F1000
