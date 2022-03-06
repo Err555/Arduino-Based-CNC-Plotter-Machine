@@ -1,4 +1,5 @@
-G90 (use absolute coordinates)
+; Gcodes  for Sample picture Sample.picture01
+G90 (using absolute coordinates)
 G0 X0 Y0 F1000
 M3 S0
 G1 X0.333 S50
@@ -2996,15 +2997,8 @@ X43.333 S113
 X43.667 S50
 G0 X44 Y8 S0
 G1 X44.333 S7
-G0 X44.667 Y8 S0
-G1 X45 S54
-X45.333 S113
-X45.667 S105
-X46 S113
-X46.333 S62
-G0 X46.667 Y8 S0
-G1 X47 S7
-G0 X47.333 Y8 S0
+
+; _Add.Inn
 G1 X47.667 S43
 X48 S113
 X48.333 S105
